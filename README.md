@@ -1,6 +1,6 @@
 # Embedded Project Oberon for GateMate
 
-In the Astrobe/ directory you can find the sources.
+In the src/ directory you can find the sources.
 
 The SD card image works as is if you compile BootLoad.Mod and synthesise
 with the resulting prom.mem file the RISC5 FPGA CPU. I've modified the
